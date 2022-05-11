@@ -28,8 +28,8 @@ tasks.register("lintFormatAllModules", DefaultTask::class) {
 }
 
 
-tasks.register("testKt", tasks.MyKtTask::class) {
+/*tasks.register("testKt", tasks.MyKtTask::class) {
 
-}
+}*/
 
 

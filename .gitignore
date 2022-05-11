@@ -17,4 +17,3 @@ local.properties
 /buildSrc/build/
 /build/
 /app/src/main/kotlin/ru/skillbranch/sbdelivery/ui/screens/profile/registration/RegistrationScreenOld.kt
-/gradle/
