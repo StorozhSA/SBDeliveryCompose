@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SB Delivery</string>
+    <string name="E_UNKNOWN" tools:ignore="UnusedResources">Неизвестная ошибка</string>
+    <string name="E_LOGIN_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при входе в аккаунт</string>
+    <string name="E_REG_EXISTS" tools:ignore="UnusedResources">Такой пользователь уже существует</string>
+    <string name="E_LOGIN_EXISTS" tools:ignore="UnusedResources">Такой логин уже существует</string>
+    <string name="E_LOGIN_ERROR" tools:ignore="UnusedResources">Неправильный логин или пароль</string>
+    <string name="E_SUCCESS" tools:ignore="UnusedResources">Успешно</string>
+    <string name="E_SUCCESS_REGISTRATION" tools:ignore="UnusedResources">Ваш аккаунт успешно создан</string>
+    <string name="E_SUCCESS_LOGIN" tools:ignore="UnusedResources">Вы вошли</string>
+    <string name="E_REG_FAILED" tools:ignore="UnusedResources">Ошибка регистрации</string>
+    <string name="E_RECOVERY_EMAIL_FAILED" tools:ignore="UnusedResources">Ошибка восстановления E-mail</string>
+    <string name="E_RECOVERY_EMAIL_LESS_TIME" tools:ignore="UnusedResources">Код уже был отправлен менее 3 минут назад</string>
+    <string name="E_RECOVERY_CODE_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при восстановлении кода</string>
+    <string name="E_RECOVERY_CODE_WRONG" tools:ignore="UnusedResources">Код неверный</string>
+    <string name="E_RECOVERY_PASSWORD_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка восстановления пароля</string>
+    <string name="E_RECOVERY_PASSWORD_EXPIRED" tools:ignore="UnusedResources">Bремя действия кода истекло</string>
+    <string name="E_REFRESH_TOKEN_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка обновления токена</string>
+    <string name="E_REFRESH_TOKEN_EXPIRED" tools:ignore="UnusedResources">Время для обновления истекло</string>
+    <string name="E_PASSWORD_CHANGE_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при смене пароля</string>
+    <string name="E_FAVORITE_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка избранного</string>
+    <string name="E_GET_RECOMMENDED_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка рекомендаций</string>
+    <string name="E_GET_CATEGORIES_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при получении категорий блюд</string>
+    <string name="E_NOT_MODIFIED" tools:ignore="UnusedResources">Без изменений</string>
+    <string name="E_GET_DISHES_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при получении списка блюд</string>
+    <string name="E_GET_REVIEWS_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при получении списка отзывов</string>
+    <string name="E_ADD_REVIEWS_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка добавления отзывов</string>
+    <string name="E_GET_OR_UPDATE_CART_FAILED" tools:ignore="UnusedResources">Ошибка синхронизации корзины с сервером. Требуется авторизация.</string>
+    <string name="E_CHECK_ADDRESS_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при проверке адреса</string>
+    <string name="E_ORDER_NEW_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при создании заказа</string>
+    <string name="E_GET_ORDERS_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при получении списка заказов</string>
+    <string name="E_GET_ORDERS_STATUSES_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при получении статусов заказов</string>
+    <string name="E_ORDER_CANCEL_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при отмене заказа</string>
+    <string name="E_NOT_FOUND" tools:ignore="UnusedResources">Объект не найден</string>
+    <string name="E_PROFILE_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка при операции с профилем пользователя</string>
+
+    <string name="labelStatus">Статус</string>
+    <string name="labelAmount">Сумма</string>
+    <string name="labelDate">Дата</string>
+    <string name="labelCartAdded">Добавлено в корзину</string>
+    <string name="labelCartAdd">Добавить в корзину</string>
+    <string name="labelFirstName">Имя</string>
+    <string name="labelLastName">Фамилия</string>
+    <string name="labelPassword">Пароль</string>
+    <string name="labelAddress">Адрес</string>
+    <string name="labelEntrance">Подъезд</string>
+    <string name="labelFloor">Этаж</string>
+    <string name="labelApartment">Квартира</string>
+    <string name="labelIntercom">Домофон</string>
+    <string name="labelComment">Комментарий</string>
+    <string name="labelEdit" tools:ignore="UnusedResources">Редактировать</string>
+    <string name="labelWrite">Написать</string>
+    <string name="labelSelectFromMap">Указать на карте</string>
+    <string name="userFirstName" tools:ignore="UnusedResources">Иван</string>
+    <string name="userLastName" tools:ignore="UnusedResources">Иванов</string>
+    <string name="labelReg">Регистрация</string>
+    <string name="labelLogin">Войти</string>
+    <string name="labelOrderProcessing">Оформление заказа</string>
+    <string name="title_home">Главная</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_favorites">Избранное</string>
+    <string name="title_cart">Корзина</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_orders">Заказы</string>
+    <string name="title_notifications" tools:ignore="UnusedResources">Уведомления</string>
+    <string name="title_about">О приложении</string>
+    <string name="title_dish">Блюдо</string>
+    <string name="labelSave">Сохранить</string>
+    <string name="labelApply">Применить</string>
+    <string name="labelChange">Изменить</string>
+    <string name="labelChangePassword">Изменить пароль</string>
+    <string name="labelCancel">Отменить</string>
+    <string name="labelCancelOrder">Отменить заказ</string>
+    <string name="labelRepeatOrder">Повторить заказ</string>
+    <string name="labelOrderContent">Состав заказа</string>
+    <string name="labelOrder">Заказ</string>
+    <string name="labelActual">Актуальные</string>
+    <string name="labelDelivered">Доставленные</string>
+    <string name="E_PROFILE_GET_FAILED" tools:ignore="UnusedResources">Неизвестная ошибка профиля пользователя</string>
+    <string name="err_only_letters" tools:ignore="UnusedResources">Только буквы</string>
+    <string name="E_NOT_VALID_EMAIL">Некорректный E-mail</string>
+    <string name="E_EMPTY_FIELD">Обязательное для заполнения поле</string>
+    <string name="E_ONLY_RU_EN">Только RU или EN</string>
+    <string name="E_ONLY_DIGIT">Только цифры</string>
+    <string name="E_NOT_EQ_PASS">Пароли не совпадают</string>
+    <string name="labelLogout" tools:ignore="UnusedResources">Выход</string>
+    <string name="label_password_old">Старый пароль</string>
+    <string name="label_password_new">Новый пароль</string>
+    <string name="label_forgot_password">Забыли пароль?</string>
+    <string name="E_NOT_CONNECTED" tools:ignore="UnusedResources">Ошибка передачи данных. Возможно нет сетевого соединения.</string>
+    <string name="E_TIMEOUT_SOCKET" tools:ignore="UnusedResources">Время ожидания ответа истекло</string>
+    <string name="labelSend">Отправить</string>
+    <string name="textRecovPassword">Введите электронную почту, которую вы использовалли при регистрации, и мы вышлем на нее код для восстановления пароля</string>
+    <string name="labelRecoveryPassword">Восстановление пароля</string>
+    <string name="labelCheckCode" tools:ignore="UnusedResources">Введите проверочный код</string>
+    <string name="textNewPassword" tools:ignore="UnusedResources">Введите новый пароль</string>
+    <string name="labelPasswordReplace">Повторите пароль</string>
+    <string name="label_sort" tools:ignore="UnusedResources">Отсортировать</string>
+    <string name="label_search" tools:ignore="UnusedResources">Поиск</string>
+    <string name="ByAlphabetically">По алфавиту</string>
+    <string name="ByPopularity">По популярности</string>
+    <string name="ByRating">По рейтингу</string>
+    <string name="is_registered">Ваш аккаунт создан</string>
+    <string name="is_unregistered">Ваш аккаунт удалён</string>
+    <string name="you_login" tools:ignore="UnusedResources">Вы вошли</string>
+    <string name="you_logout" tools:ignore="UnusedResources">Вы вышли</string>
+    <string name="label_favorites" tools:ignore="UnusedResources">Избранное</string>
+    <string name="label_dish" tools:ignore="UnusedResources">Блюдо</string>
+    <string name="label_action">АКЦИЯ</string>
+    <string name="label_shop_cart" tools:ignore="UnusedResources">Корзина</string>
+</resources>

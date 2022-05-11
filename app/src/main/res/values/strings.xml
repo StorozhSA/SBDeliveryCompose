@@ -1,0 +1,144 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SB Delivery</string>
+    <string name="E_UNKNOWN" tools:ignore="UnusedResources">Unknown error</string>
+    <string name="E_LOGIN_FAILED" tools:ignore="UnusedResources">Unknown error of login process</string>
+    <string name="E_REG_EXISTS" tools:ignore="UnusedResources">This user already exists</string>
+    <string name="E_LOGIN_EXISTS" tools:ignore="UnusedResources">This login already exists</string>
+    <string name="E_LOGIN_ERROR" tools:ignore="UnusedResources">Incorrect login or password</string>
+    <string name="E_SUCCESS" tools:ignore="UnusedResources">Success</string>
+    <string name="E_SUCCESS_REGISTRATION" tools:ignore="UnusedResources">Your account has been created</string>
+    <string name="E_SUCCESS_LOGIN" tools:ignore="UnusedResources">You are logged in</string>
+    <string name="E_REG_FAILED" tools:ignore="UnusedResources">Registration error</string>
+    <string name="E_RECOVERY_EMAIL_FAILED" tools:ignore="UnusedResources">Recovery E-mail failed</string>
+    <string name="E_RECOVERY_EMAIL_LESS_TIME" tools:ignore="UnusedResources">The code was already sent less than 3 minutes ago</string>
+    <string name="E_RECOVERY_CODE_FAILED" tools:ignore="UnusedResources">Unknown error while restoring code</string>
+    <string name="E_RECOVERY_CODE_WRONG" tools:ignore="UnusedResources">Wrong code</string>
+    <string name="E_RECOVERY_PASSWORD_FAILED" tools:ignore="UnusedResources">Unknown error of recovery password</string>
+    <string name="E_RECOVERY_PASSWORD_EXPIRED" tools:ignore="UnusedResources">Code expired</string>
+    <string name="E_REFRESH_TOKEN_FAILED" tools:ignore="UnusedResources">Unknown error refresh token</string>
+    <string name="E_REFRESH_TOKEN_EXPIRED" tools:ignore="UnusedResources">Time refresh expired</string>
+    <string name="E_PASSWORD_CHANGE_FAILED" tools:ignore="UnusedResources">Unknown error of change password</string>
+    <string name="E_FAVORITE_FAILED" tools:ignore="UnusedResources">Unknown error of favorite</string>
+    <string name="E_GET_RECOMMENDED_FAILED" tools:ignore="UnusedResources">Unknown error of recommended</string>
+    <string name="E_GET_CATEGORIES_FAILED" tools:ignore="UnusedResources">Unknown error of get categories</string>
+    <string name="E_NOT_MODIFIED" tools:ignore="UnusedResources">Not modified</string>
+    <string name="E_GET_DISHES_FAILED" tools:ignore="UnusedResources">Unknown error of get dishes</string>
+    <string name="E_GET_REVIEWS_FAILED" tools:ignore="UnusedResources">Unknown error of get reviews</string>
+    <string name="E_ADD_REVIEWS_FAILED" tools:ignore="UnusedResources">Unknown error of add review</string>
+    <string name="E_GET_OR_UPDATE_CART_FAILED" tools:ignore="UnusedResources">Error synchronizing the cart with the server. Authorization required.</string>
+    <string name="E_CHECK_ADDRESS_FAILED" tools:ignore="UnusedResources">Unknown error of check address</string>
+    <string name="E_ORDER_NEW_FAILED" tools:ignore="UnusedResources">Unknown  error of create new order</string>
+    <string name="E_GET_ORDERS_FAILED" tools:ignore="UnusedResources">Unknown error of get orders list</string>
+    <string name="E_GET_ORDERS_STATUSES_FAILED" tools:ignore="UnusedResources">Unknown error of get orders statuses</string>
+    <string name="E_ORDER_CANCEL_FAILED" tools:ignore="UnusedResources">Unknown error of cancel order</string>
+    <string name="E_NOT_FOUND" tools:ignore="UnusedResources">Object not found</string>
+    <string name="E_PROFILE_FAILED" tools:ignore="UnusedResources">Unknown error of profile operate</string>
+    <string name="navigation_drawer_open" translatable="false" tools:ignore="UnusedResources">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false" tools:ignore="UnusedResources">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false" tools:ignore="UnusedResources">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false" tools:ignore="UnusedResources">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false" tools:ignore="UnusedResources">Navigation header</string>
+    <string name="action_settings" translatable="false" tools:ignore="UnusedResources">Settings</string>
+
+    <string name="menu_home" translatable="false" tools:ignore="UnusedResources">Home</string>
+    <string name="menu_gallery" translatable="false" tools:ignore="UnusedResources">Gallery</string>
+    <string name="menu_slideshow" translatable="false" tools:ignore="UnusedResources">Slideshow</string>
+
+    <string name="labelStatus">Status</string>
+    <string name="labelAmount">Amount</string>
+    <string name="labelDate">Date</string>
+    <string name="labelCartAdded">Added to cart</string>
+    <string name="labelCartAdd">Add to Shopping Cart</string>
+    <string name="labelFirstName">Firstname</string>
+    <string name="labelLastName">Lastname</string>
+    <string name="labelEmail" translatable="false">E-mail</string>
+    <string name="labelPassword">Password</string>
+    <string name="labelAddress">Address</string>
+    <string name="labelEntrance">Entrance</string>
+    <string name="labelFloor">Floor</string>
+    <string name="labelApartment">Apartment</string>
+    <string name="labelIntercom">Intercom</string>
+    <string name="labelComment">Comment</string>
+    <string name="labelEdit" tools:ignore="UnusedResources">Edit</string>
+    <string name="labelWrite">Write</string>
+    <string name="labelSelectFromMap">Indicate on the map</string>
+    <string name="labelReg">Registration</string>
+    <string name="labelOrderProcessing">Order processing</string>
+    <string name="userFirstName" tools:ignore="UnusedResources">Jone</string>
+    <string name="userLastName" tools:ignore="UnusedResources">Doe</string>
+    <string name="userEmail" translatable="false" tools:ignore="UnusedResources">example@mail.com</string>
+    <string name="userPassword" translatable="false" tools:ignore="UnusedResources">1234567890</string>
+    <string name="labelLogin">Login</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_orders">Orders</string>
+    <string name="title_notifications" tools:ignore="UnusedResources">Notifications</string>
+    <string name="title_about">About</string>
+    <string name="title_dish">Dish</string>
+    <string name="enter" translatable="false" tools:ignore="UnusedResources">Enter</string>
+
+    <string name="hello_blank_fragment" translatable="false" tools:ignore="UnusedResources">Hello blank fragment</string>
+    <string name="labelSave">Save</string>
+    <string name="labelApply">Apply</string>
+    <string name="labelChange">Change</string>
+    <string name="labelChangePassword">Change password</string>
+    <string name="labelCancel">Cancel</string>
+    <string name="labelCancelOrder">Cancel order</string>
+    <string name="labelOrderContent">Order content</string>
+    <string name="labelRepeatOrder">Repeat order</string>
+    <string name="labelOrder">Order</string>
+    <string name="labelActual">Actual</string>
+    <string name="labelDelivered">Delivered</string>
+    <string name="E_PROFILE_GET_FAILED" tools:ignore="UnusedResources">Unknown error of get user profile</string>
+    <string name="err_only_letters" tools:ignore="UnusedResources">Only letters</string>
+    <string name="E_NOT_VALID_EMAIL">Not valid E-mail</string>
+    <string name="E_EMPTY_FIELD">Mandatory field</string>
+    <string name="E_ONLY_RU_EN">Only RU or EN</string>
+    <string name="E_ONLY_DIGIT">Only digit</string>
+    <string name="E_NOT_EQ_PASS">Password mismatch</string>
+    <string name="labelLogout" tools:ignore="UnusedResources">Logout</string>
+    <string name="label_password_old">Old password</string>
+    <string name="label_password_new">New password</string>
+    <string name="label_forgot_password">Forgot password?</string>
+    <string name="E_NOT_CONNECTED" tools:ignore="UnusedResources">Data transfer error. There may be no network connection.</string>
+    <string name="E_TIMEOUT_SOCKET" tools:ignore="UnusedResources">Network timeout expired</string>
+    <string name="labelSend">Send</string>
+    <string name="textRecovPassword">Enter the email you used to register and we will send you a password reset code</string>
+    <string name="labelRecoveryPassword">Recovery password</string>
+    <string name="labelCheckCode" tools:ignore="UnusedResources">Input check code</string>
+    <string name="textNewPassword" tools:ignore="UnusedResources">Enter a new password</string>
+    <string name="labelPasswordReplace">Confirm password</string>
+    <string name="label_sort" tools:ignore="UnusedResources">Sort</string>
+    <string name="label_search" tools:ignore="UnusedResources">Search</string>
+    <string name="lorem" translatable="false" tools:ignore="UnusedResources">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+		In mollis est vitae erat laoreet consectetur. Mauris dui mauris,
+		dictum vel egestas vel, porta sed ante. Phasellus congue viverra ipsum,
+		in elementum arcu ultricies nec.Morbi tincidunt nisl lacinia, placerat nisi eget, luctus tortor.
+		Morbi efficitur dictum leo, sit amet volutpat lorem sodales nec. Quisque et erat et turpis fringilla condimentum.
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris auctor vulputate libero vitae iaculis.
+		Curabitur id blandit quam. Praesent massa ante, pulvinar vitae sagittis commodo, scelerisque porttitor eros.
+		Mauris suscipit a enim nec congue. Mauris tristique cursus aliquet. Nunc quis hendrerit nunc. Praesent tristique tellus purus,
+		a pretium ex gravida id. Cras laoreet malesuada nulla, at bibendum metus ultricies a. Fusce eu ornare arcu. Proin ut molestie est.
+		Vestibulum quis vehicula erat. Nam sed tempus nibh. Sed tortor ante, maximus venenatis odio sed, ultricies maximus lectus.
+		Aliquam sed volutpat ligula. Integer bibendum, magna ac lacinia suscipit,
+		risus libero rutrum justo, sed tempus augue tellus eget est. Curabitur convallis augue nisl,
+		id efficitur urna posuere faucibus. Ut sed egestas nulla, eu finibus metus. Nunc a arcu ante.
+		Aenean ullamcorper dolor non condimentum congue. Aenean mauris nunc, pellentesque at placerat vitae,
+		aliquet quis orci. Curabitur maximus augue ut bibendum sagittis.
+	</string>
+    <string name="ByAlphabetically">By alphabetically</string>
+    <string name="ByPopularity">By popularity</string>
+    <string name="ByRating">By rating</string>
+    <string name="is_registered">Your account has been created</string>
+    <string name="is_unregistered">Your account has been deleted</string>
+    <string name="you_login" tools:ignore="UnusedResources">You are logged in</string>
+    <string name="you_logout" tools:ignore="UnusedResources">You log out</string>
+    <string name="label_favorites" tools:ignore="UnusedResources">Favorites</string>
+    <string name="label_dish" tools:ignore="UnusedResources">Dish</string>
+    <string name="label_action">ACTION</string>
+    <string name="label_shop_cart" tools:ignore="UnusedResources">Shop cart</string>
+</resources>
